@@ -9,7 +9,6 @@ Minecraft oyununda tüm clientlerde ve sürümlerde stabil olarak çalışan, di
 
 [Youtube](https://www.youtube.com/channel/UCdQcC0vdeqms42IyKIhRRvw)
 
-[Youtube-2](https://www.youtube.com/channel/UCPHbxjYWfVEj1wiU7yzbumQ)
 
 [GitHub](https://github.com/Spache0)
 
